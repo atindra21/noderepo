@@ -1,0 +1,14 @@
+{
+  "name": "and-npm",
+  "version": "1.0.0",
+  "description": "This contains the configuration of simple node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Atr",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
