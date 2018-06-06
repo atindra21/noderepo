@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "grunt-contrib-watch": "^1.1.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0",
+    "jshint": "^2.9.5",
+    "uglify": "^0.1.5"
+  }
+}

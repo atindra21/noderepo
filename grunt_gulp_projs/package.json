@@ -1,0 +1,23 @@
+{
+  "name": "grunt-playlist",
+  "version": "1.0.0",
+  "description": "This package consists of grunt",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atindra21/noderepo.git"
+  },
+  "author": "Atindra",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^3.3.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
